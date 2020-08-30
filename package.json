@@ -1,0 +1,43 @@
+{
+    "title": "Twitter Bootstrap",
+    "name": "twitter-bootstrap-starter",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "node_modules/.bin/gulp watch"
+    },
+    "description": "Bootstrap starter plate with all the goodies (saas, font awesome, jquery, hot reload etc.)",
+    "keywords": [
+        "css",
+        "sass",
+        "html",
+        "responsive",
+        "theme",
+        "template",
+        "boilerplate",
+        "starter",
+        "bootstrap"
+    ],
+    "bugs": {
+        "url": "https://github.com/mubbashir10/twitter-bootstrap-starter/issues",
+        "email": "mubbashir10@gmail.com"
+    },
+    "license": "MIT",
+    "author": "Mubbashir10",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mubbashir10/twitter-bootstrap-starter"
+    },
+    "devDependencies": {
+        "browser-sync": "2.26.7",
+        "del": "5.1.0",
+        "gulp": "4.0.2",
+        "gulp-autoprefixer": "7.0.1",
+        "gulp-clean-css": "4.3.0",
+        "gulp-header": "2.0.9",
+        "gulp-plumber": "^1.2.1",
+        "gulp-rename": "2.0.0",
+        "gulp-sass": "4.1.0",
+        "gulp-uglify": "3.0.2",
+        "merge-stream": "2.0.0"
+    }
+}

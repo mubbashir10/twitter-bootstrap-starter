@@ -1,0 +1,31 @@
+/*!
+ * Start Bootstrap - Twitter Bootstrap v1.0.0 ()
+ * Copyright 2013-2020 Mubbashir10
+ * Licensed under MIT (https://github.com/StartBootstrap/twitter-bootstrap-starter/blob/master/LICENSE)
+ */
+
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  min-height: 35rem;
+  position: relative;
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Lato', sans-serif;
+  font-weight: 700;
+}
+
+#hero {
+  background: #ccc;
+}
