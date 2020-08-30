@@ -1,11 +1,15 @@
-####Getting Started
+### Quick Start
+<br/>
+<br/>
 
-#####Install Dependencies
+#### Install Dependencies
+<br/>
+
 ```
 npm install
 ```
 
-#####Start Development Server
+#### Start Development Server
 ```
 npm start
 ```
