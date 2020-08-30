@@ -1,9 +1,6 @@
 ### Quick Start
-<br/>
-<br/>
 
 #### Install Dependencies
-<br/>
 
 ```
 npm install
